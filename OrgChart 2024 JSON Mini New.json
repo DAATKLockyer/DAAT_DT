@@ -1,32 +1,58 @@
 [
   {
-    "person":"Lee Angell",
-    "level1":"IT & Digital",
-    "level2":"Helena Holt",
-    "kpi":"12"
+    "level1": "CEO",
+    "person": "Helena Holt",
+    "kpi": 1
   },
   {
-    "person":"Irfan Hussain",
-    "level1":"IT & Digital",
-    "level2":"Lee Angell",
-    "kpi":"25"
+    "level1": "CEO",
+    "level2": "Digital & Transformation",
+    "person": "Lee Angell",
+    "kpi": 2
   },
   {
-    "person":"Samuel Hoooper",
-    "level1":"IT & Digital",
-    "level2":"Irfan Hussain",
-    "kpi":"173"
+    "level1": "CEO",
+    "level2": "Digital & Transformation",
+    "level3": "Technical Services",
+    "person": "Irfan Hussain",
+    "kpi": 3
   },
   {
-    "person":"Zak Martin",
-    "level1":"IT & Digital",
-    "level2":"Irfan Hussain",
-    "kpi":"174"
+    "level1": "CEO",
+    "level2": "Digital & Transformation",
+    "level3": "Technical Services",
+    "level4": "Irfan Hussain",
+    "person": "Sam Hooper",
+    "kpi": 4
   },
   {
-    "person":"Kate Lockyer",
-    "level1":"IT & Digital",
-    "level2":"Lee Angell",
-    "kpi":"175"
+    "level1": "CEO",
+    "level2": "Digital & Transformation",
+    "level3": "Technical Services",
+    "level4": "Irfan Hussain",
+    "person": "Zak Martin",
+    "kpi": 5
+  },
+  {
+    "level1": "CEO",
+    "level2": "Digital & Transformation",
+    "level3": "Data",
+    "person": "Kate Lockyer",
+    "kpi": 6
+  },
+  {
+    "level1": "CEO",
+    "level2": "Digital & Transformation",
+    "level3": "Quality Improvement",
+    "person": "Hannah Trebilcock",
+    "kpi": 7
+  },
+  {
+    "level1": "CEO",
+    "level2": "Digital & Transformation",
+    "level3": "Process Improvement",
+    "level4": "Hannah Trebilcock",
+    "person": "Belinda Tibbetts",
+    "kpi": 8
   }
 ]
